@@ -381,3 +381,5 @@ node_modules/
 *.min.js
 *.min.js.map
 db.sqlite3
+*.pyc
+staticfiles/
