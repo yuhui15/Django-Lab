@@ -376,3 +376,8 @@ tests/.coverage*
 build/
 tests/report/
 tests/screenshots/
+venv/
+node_modules/
+*.min.js
+*.min.js.map
+db.sqlite3
